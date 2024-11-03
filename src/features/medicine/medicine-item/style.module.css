@@ -1,0 +1,10 @@
+.medicine {
+    background-color: gainsboro;
+    padding: 20px;
+    border-radius: 1rem;
+}
+
+.medicine img {
+    height: 200px;
+    width: 200px;
+}

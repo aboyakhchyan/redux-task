@@ -1,0 +1,28 @@
+{
+  "medicnie": [
+    {
+      "id": "101",
+      "name": "Theraflu",
+      "salary": 400,
+      "imageUrl": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-theraflu/en_US/products/00300677917060_front.png?auto=format"
+    },
+    {
+      "id": "102",
+      "name": "Suaron",
+      "salary": 1500,
+      "imageUrl": "https://santepharm.am/wp-content/uploads/2023/08/812665794.jpg"
+    },
+    {
+      "id": "103",
+      "name": "Diazolin",
+      "salary": 2500,
+      "imageUrl": "https://dobraya-apteka.kz/backend/web/images/products/4820000000000/thumb/diazolin_01_tab_10_farmak.jpg"
+    },
+    {
+      "id": "104",
+      "name": "Suprastin",
+      "salary": 3000,
+      "imageUrl": "https://static4.asna.ru/imgprx/-TvI89yhC3JwUxGP_A0_hN7RN3Gv8bZMWsSJ7w0eWvQ/rs:fit:800:800:1/g:no/aHR0cHM6Ly9pbWdzLmFzbmEucnUvaWJsb2NrL2Q0OS9kNDkwZjA5ZTI4OWUyNzU4MTBiOTg4YTUwMzIwNWJiYi8xMDkyNzIuanBn.jpg"
+    }
+  ]
+}
